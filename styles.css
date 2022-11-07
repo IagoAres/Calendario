@@ -1,0 +1,25 @@
+th{
+    column-span: all;
+    background-color:rgb(91, 192, 153);
+    border-width: 2px;    
+    border-style: groove;
+    width: 100%;
+}
+
+button{
+    column-span: all;
+    background-color:rgba(40, 188, 99, 0.389);
+    border-width: 1px;    
+    border-style: ridge;
+    width:20%
+}
+
+table{
+    width: 50%;
+    text-align: center;
+    background-color:rgba(93, 250, 190, 0.968) ;
+    border-width: 2px; 
+    border-style: groove;
+    padding:0;
+    margin: 0;
+}
